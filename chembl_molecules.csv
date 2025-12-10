@@ -1,0 +1,26 @@
+ChEMBL_ID,Name,SMILES
+CHEMBL6329,,Cc1cc(-n2ncc(=O)[nH]c2=O)ccc1C(=O)c1ccccc1Cl
+CHEMBL6328,,Cc1cc(-n2ncc(=O)[nH]c2=O)ccc1C(=O)c1ccc(C#N)cc1
+CHEMBL265667,,Cc1cc(-n2ncc(=O)[nH]c2=O)cc(C)c1C(O)c1ccc(Cl)cc1
+CHEMBL6362,,Cc1ccc(C(=O)c2ccc(-n3ncc(=O)[nH]c3=O)cc2)cc1
+CHEMBL267864,,Cc1cc(-n2ncc(=O)[nH]c2=O)ccc1C(=O)c1ccc(Cl)cc1
+CHEMBL6363,,Cc1cc(-n2ncc(=O)[nH]c2=O)ccc1C(=O)c1ccccc1
+CHEMBL6352,,Cc1cc(Br)ccc1C(=O)c1ccc(-n2ncc(=O)[nH]c2=O)cc1Cl
+CHEMBL268097,,O=C(c1ccc(Cl)cc1Cl)c1ccc(-n2ncc(=O)[nH]c2=O)cc1Cl
+CHEMBL266457,,CS(=O)(=O)c1ccc(C(=O)c2ccc(-n3ncc(=O)[nH]c3=O)cc2Cl)cc1
+CHEMBL268556,,c1cc2cc(c1)-c1cccc(c1)C[n+]1ccc(c3ccccc31)NCCCCCCCCCCNc1cc[n+](c3ccccc13)C2
+CHEMBL6214,,CSc1ccc(C(=O)c2ccc(-n3ncc(=O)[nH]c3=O)cc2Cl)cc1
+CHEMBL6222,,O=C(c1ccc(Cl)cc1)c1ccc(-n2ncc(=O)[nH]c2=O)cc1Cl
+CHEMBL6206,BROMOENOL LACTONE,O=C1O/C(=C/Br)CCC1c1cccc2ccccc12
+CHEMBL6223,,O=C1O/C(=C/I)CCC1c1cccc2ccccc12
+CHEMBL269758,,C#C/C=C1\CCC(c2cccc3ccccc23)C(=O)O1
+CHEMBL6228,,O=C1O/C(=C\I)CCC1c1cccc2ccccc12
+CHEMBL268365,,O=C(c1ccccc1)c1ccc(-n2ncc(=O)[nH]c2=O)cc1
+CHEMBL6230,,O=c1cnn(-c2ccc(C(O)c3ccc(Cl)cc3)c(Cl)c2)c(=O)[nH]1
+CHEMBL6254,,O=C(c1ccccc1)c1cc(-n2ncc(=O)[nH]c2=O)ccc1Cl
+CHEMBL6268,,Cc1cc(-n2ncc(=O)[nH]c2=O)ccc1C(O)c1ccccc1
+CHEMBL414196,,COc1cc2nc(N3CCN(C(=O)C4CC4c4ccccc4)CC3)nc(N)c2cc1OC
+CHEMBL268528,,COc1ccc(C(=O)c2ccc(-n3ncc(=O)[nH]c3=O)cc2)cc1
+CHEMBL112998,,COc1cc2nc(N3CCN(S(=O)(=O)c4cccs4)CC3)nc(N)c2cc1OC
+CHEMBL6266,,c1ccc2c(c1)c1cc[n+]2Cc2ccc(cc2)-c2ccc(cc2)C[n+]2ccc(c3ccccc32)NCCCCCCCCCCN1
+CHEMBL6354,,Nc1cc[n+](Cc2cccc(-c3cccc(C[n+]4ccc(N)c5ccccc54)c3)c2)c2ccccc12
